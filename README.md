@@ -41,4 +41,4 @@ A clean, responsive, and interactive web-based **Number Guessing Game** built wi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/number-guessing-game.git](https://github.com/YOUR-USERNAME/number-guessing-game.git)
+   git clone [[https://github.com/YOUR-USERNAME/number-guessing-game.git](https://github.com/YOUR-USERNAME/number-guessing-game.git)](https://123parwithkhon.github.io/number-guessing-game/)
