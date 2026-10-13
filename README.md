@@ -6,7 +6,7 @@
 
 A clean, responsive, and interactive web-based **Number Guessing Game** built with HTML5, CSS3, and Vanilla JavaScript. 
 
-🔗 **[View Live Demo](https://123parwithkhon.github.io/number-guessing-game/)** *(будет доступно после включения GitHub Pages)*
+🔗 **[View Live Demo]: [https://123parwithkhon.github.io/number-guessing-game/](https://123parwithkhon.github.io/number-guessing-game/).**
 
 ---
 
